@@ -1,6 +1,6 @@
 # Homebrew tap
 
-Formulae and casks for software by [Fredrik Spång](https://github.com/fredrikspang-sys).
+Formulae and casks for Nightdeck.
 
 ## Nightdeck
 
